@@ -1,0 +1,14 @@
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.exe
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.deps.json
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.runtimeconfig.json
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.runtimeconfig.dev.json
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.dll
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\bin\Debug\netcoreapp3.1\bridgelab.pdb
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.csproj.AssemblyReference.cache
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.AssemblyInfoInputs.cache
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.AssemblyInfo.cs
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.csproj.CoreCompileInputs.cache
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.dll
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.pdb
+C:\Users\Thiru\source\repos\vijay\bridgelab\bridgelab\obj\Debug\netcoreapp3.1\bridgelab.genruntimeconfig.cache
